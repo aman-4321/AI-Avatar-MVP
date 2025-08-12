@@ -84,7 +84,9 @@ Open `http://localhost:3000`. Sign up/sign in, then follow the nav: Avatars → 
 
 ### Demo flow
 
-Watch the workflow video: [docs/workflow.mp4](docs/workflow.mp4)
+Watch the workflow video:
+
+https://github.com/user-attachments/assets/720d75fb-b01d-42ca-88f3-842f3715d83e
 
 1. Create avatar: enter a description, generate previews, pick one, Save.
 2. Generate voice: enter a short prompt or paste text; save and re‑use.
