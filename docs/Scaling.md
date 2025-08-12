@@ -4,11 +4,11 @@ This guide explains how to grow the MVP into a stable, production system for 1,0
 
 - High‑level diagram:
 
-![High‑level architecture](docs/diagram.png)
+![High‑level architecture](./diagram.png)
 
 - Example generated video:
 
-[Download/view example (video.mp4)](docs/video.mp4)
+[Download/view example (video.mp4)](./video.mp4)
 
 - Validate and authorize requests quickly. Do heavy work in background jobs.
 - Let the client poll job status or use webhooks/SSE.
