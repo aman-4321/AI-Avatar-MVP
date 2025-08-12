@@ -8,7 +8,7 @@ This guide explains how to grow the MVP into a stable, production system for 1,0
 
 - Example generated video:
 
-[Download/view example (video.mp4)](./video.mp4)
+https://github.com/user-attachments/assets/8ca651e2-f66b-41ed-a2c9-3b040212960e
 
 - Validate and authorize requests quickly. Do heavy work in background jobs.
 - Let the client poll job status or use webhooks/SSE.
